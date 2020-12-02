@@ -11,7 +11,7 @@ The Library Management System is a system where You can: <br>
 + Maven;<br>
 + You can also import the code straight into your IDE and start.<br>
 
-***If what - you can dowload*** <br>
+***If what - you can download*** <br>
 ***[JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)*** <br>
 ***[Maven](https://apache.ip-connect.vn.ua/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip)*** <br>
 
